@@ -4,13 +4,18 @@ body{
     /*background-image: url("https://collectionapi.metmuseum.org/api/collection/v1/iiif/49156/198919/main-image")*/
     background:linear-gradient(-4deg, rgb(124, 78, 2), rgb(250, 247, 75));
     margin-bottom: 10px;
+    font-family: 'Tangerine', serif;
+    font-size: 20px;
+    text-shadow: 4px 4px 4px #4f4f4f;
 }
 img{
     width: 35%;
     border-radius: 6% ;
     background: lime;
     float: left;
-    margin: 10px;
+    margin-right: 20px;
+    margin-left: 80px;
+
 }
 h1 , h3{
     text-align: center;
